@@ -1,8 +1,5 @@
-
-# Github Marshall:
 Discord 
 marshall0_
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
